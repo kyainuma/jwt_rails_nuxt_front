@@ -1,0 +1,10 @@
+<template>
+  <v-app>
+    About.vue
+  </v-app>
+</template>
+
+<script>
+export default {
+}
+</script>
