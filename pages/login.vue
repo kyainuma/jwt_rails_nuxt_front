@@ -21,7 +21,7 @@
             パスワードを忘れた場合
           </nuxt-link>
         </v-card-actions>
-        <v-cart-text
+        <v-card-text
           class="px-0"
         >
           <v-btn
@@ -34,7 +34,7 @@
           >
             ログインする
           </v-btn>
-        </v-cart-text>
+        </v-card-text>
       </v-form>
     </template>
   </user-form-card>
